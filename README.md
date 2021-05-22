@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/44445250/119210125-a7439c80-ba78-11eb-978e-13dffa0105ff.PNG)
+
+
 # -Note-Taker
 This app allows users to write down their notes. 
 dependencies must be install in oder to use it. npm install express
